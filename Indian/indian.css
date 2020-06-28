@@ -1,0 +1,24 @@
+body{
+	background-image: url(26134.jpg);
+	background-size: cover;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-weight: normal;
+	margin: 0px;
+	width: 100%;
+}
+p{
+	color: white;
+}
+img{
+
+	transform-style:preserve-3d;
+}
+em{
+	color: white;
+
+}
+.kk{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
