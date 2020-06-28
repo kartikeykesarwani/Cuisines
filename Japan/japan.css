@@ -1,0 +1,30 @@
+body{
+	background-image: url(fish.jpg);
+	background-size: cover;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-weight: normal;
+	margin: 0px;
+	width: 100%;
+}
+p{
+	color:#ebebe0;
+	width: 50%;
+}
+img{
+	display: flex;
+    justify-content: right;
+    margin-right: 50px;
+	transition: all 1s;
+}
+img:hover{
+	transform: scale(1.1);
+}
+em{
+	color: white;
+
+}
+.kk{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
