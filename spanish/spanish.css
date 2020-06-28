@@ -1,0 +1,29 @@
+body{
+	background-color: #8B4513;
+	background-size: cover;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-weight: normal;
+	margin: 0px;
+	width: 100%;
+}
+p{  
+	color:black;
+	width: 100%;
+}
+img{
+   
+    
+	transition: all 1s;
+}
+img:hover{
+	transform: scale(1.1);
+}
+em{
+	color: white;
+
+}
+.kk{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
